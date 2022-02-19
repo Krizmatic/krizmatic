@@ -5,7 +5,7 @@
 * CompTIA Cybersecurity Analyst (CySA+)
 * Microsoft Azure Certified
 
-## Contact Me
+## Ahold of Me
 <p align="center">
 <a href="http://instagram.com/krizmatic10"><img src="https://img.icons8.com/color/60/000000/instagram-new--v1.png"/></a>
 <a href="https://www.facebook.com/nanthu98"><img src="https://img.icons8.com/fluency/60/000000/facebook-new.png"/></a>
@@ -15,7 +15,7 @@
 <a href="https://www.discordapp.com/users/Krizmatic#1000"><img src="https://img.icons8.com/color/60/000000/discord-logo.png"/></a>
 </p>
 
-## Programming Languages
+## Languages
 <p align="center">
 <img src="https://img.icons8.com/ios-filled/80/000000/db-2--v2.png"/>
 <img src="https://img.icons8.com/color/80/000000/c-programming.png"/>
@@ -24,14 +24,14 @@
 </p>
 <br/>
 
-## Tools
+## Workspace
 <p align="center">
 <img src="https://img.icons8.com/ios/80/000000/burp-suite.png"/>
 <img src="https://img.icons8.com/color/80/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/fluency/80/000000/azure-1.png"/>
 </p>
 
-## 🔥Streak Stats
+## Statistics
 
 <br>
 <p align=center>
@@ -46,7 +46,7 @@
 	</p>
 
 
-## Profile Views
+## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{krizmatic}/count.svg)
 
 
