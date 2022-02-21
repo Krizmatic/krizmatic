@@ -1,6 +1,6 @@
 ## Hey there 🥳👨‍💻 , Krizmatic Here !
 * Software Engineer at UST Global
-* Certified Ethical Hacker
+* Certified Ethical Hacker (EC Council)
 * PG in Cyber Security from MIT
 * CompTIA Cybersecurity Analyst (CySA+)
 * Microsoft Azure Certified
