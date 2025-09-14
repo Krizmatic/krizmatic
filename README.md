@@ -1,13 +1,14 @@
 ## Hey there 🥳👨‍💻 , Krizmatic Here !
-* Software Engineer at UST Global
+* Software Engineer
 * Certified Ethical Hacker (EC Council)
-* PG in Cyber Security from MIT
-* CompTIA Cybersecurity Analyst (CySA+)
+* PG Certification in Cyber Security from MIT
+* Certified Cybersecurity Analyst 
 * Microsoft Azure Certified
+* Master of Computer Application (Artificial Intelligence & Machine Learning)
 
 ## Ahold of Me
 <p align="center">
-<a href="http://instagram.com/krizmatic10"><img src="https://img.icons8.com/color/60/000000/instagram-new--v1.png"/></a>
+<a href="http://instagram.com/_krizmatic_"><img src="https://img.icons8.com/color/60/000000/instagram-new--v1.png"/></a>
 <a href="https://www.facebook.com/nanthu98"><img src="https://img.icons8.com/fluency/60/000000/facebook-new.png"/></a>
 <a href="https://twitter.com/nanthu98?t=x_BOU1DRm90w6xwEPwJmww&s=09"><img src="https://img.icons8.com/color/60/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/nanthu98"><img src="https://img.icons8.com/external-justicon-flat-justicon/60/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>
