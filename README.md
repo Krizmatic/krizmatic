@@ -13,7 +13,7 @@
 <a href="https://twitter.com/nanthu98?t=x_BOU1DRm90w6xwEPwJmww&s=09"><img src="https://img.icons8.com/color/60/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/nanthu98"><img src="https://img.icons8.com/external-justicon-flat-justicon/60/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>
 <a href="https://wa.me/+919847599460"><img src="https://img.icons8.com/color/60/000000/whatsapp--v4.png"/></a>
-<a href="https://www.discordapp.com/users/Krizmatic#1000"><img src="https://img.icons8.com/color/60/000000/discord-logo.png"/></a>
+<a href="https://www.discordapp.com/users/428081154948857865"><img src="https://img.icons8.com/color/60/000000/discord-logo.png"/></a>
 </p>
 
 ## Languages
